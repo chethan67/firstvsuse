@@ -1,0 +1,19 @@
+
+/* icon */
+.items{
+ padding:1rem;
+ }
+
+#What .items .item{
+  display: flex;
+}
+#What .items .item i{
+  align-self: center;
+  margin-right: 1rem;;
+}
+
+/* map */
+#Contact .map{
+  flex:2;
+}
+
